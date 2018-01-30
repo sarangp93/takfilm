@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/khane"
+        android:icon="@mipmap/Home"
+        android:title="@string/khane" />
+
+    <item
+        android:id="@+id/film"
+        android:icon="@mipmap/Movie"
+        android:title="@string/film" />
+
+    <item
+        android:id="@+id/serial"
+        android:icon="@mipmap/Series"
+        android:title="@string/serial" />
+    <item
+        android:id="@+id/genre"
+        android:icon="@mipmap/genre"
+        android:title="@string/genre" />
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Takfilm</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="film">فیلم ها</string>
+    <string name="serial">سریال ها</string>
+    <string name="khane">خانه</string>
+    <string name="genre">ژانر ها</string>
+
+</resources>
